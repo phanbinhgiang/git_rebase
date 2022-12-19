@@ -6,4 +6,8 @@ const App = () => {
   )
 }
 
+const age = (params) => {
+    
+}
+
 export default App
