@@ -6,6 +6,10 @@ const App = () => {
   )
 }
 
+const age = (params) => {
+    
+}
+
 const name = (params) => {
     
 }
